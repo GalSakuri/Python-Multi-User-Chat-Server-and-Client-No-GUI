@@ -1,7 +1,7 @@
 Gal Sakuri, ID: 207970344
-Tamir Yakuti, ID: 208154864
 
-How to Run the Chat Application:
+The Interface is dedicated to Terminal use (not GUI)
+How to Run the Server & Chat in Terminal:
 Process Overview - 
 
 Server:
