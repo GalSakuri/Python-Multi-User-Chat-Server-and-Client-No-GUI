@@ -1,5 +1,3 @@
-Gal Sakuri, ID: 207970344
-
 The Interface is dedicated to Terminal use (not GUI)
 How to Run the Server & Chat in Terminal:
 Process Overview - 
@@ -14,5 +12,3 @@ Client:
 - Runs a background thread to continuously receive and display new messages.
 - Accepts user input in the main thread and sends those messages to the server.
 - Close the connection when the user types the quit command ('LEAVE') or if the server disconnects. 
-
-#Added pictures of this application running on my machine to the moodle.
